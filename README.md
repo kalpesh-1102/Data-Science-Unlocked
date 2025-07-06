@@ -68,7 +68,7 @@ Follow the hashtag **[#UpskillWithKalpesh](https://www.linkedin.com/feed/hashtag
 [Kalpesh’s LinkedIn Profile](https://www.linkedin.com/in/kalpesh1102/)
 
 🧑‍💻 **Connect on GitHub:**  
-[github.com/YOUR_USERNAME](https://github.com/kalpesh-1102)
+[github.com/kalpesh-1102](https://github.com/kalpesh-1102)
 
 ---
 
